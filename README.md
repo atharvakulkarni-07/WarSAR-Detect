@@ -153,14 +153,3 @@ Both corrections are implemented in `gaza.py` and `mariupol.py`; `beirut.py` use
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## Acknowledgements
-
-- The original research was jointly supported by the Helmholtz Association and the TUM Innovation Network *EarthCare*.
-- We thank the authors for making their intermediate data openly available on OSF, enabling full reproducibility.
-- Sentinel‑1 imagery provided by the European Space Agency through the Copernicus programme.
-
----
-
-*For questions, issues, or contributions, please open an issue or pull request on GitHub.*  
-*Contact: [daniel.racek@stat.uni-muenchen.de](mailto:daniel.racek@stat.uni-muenchen.de) (original paper corresponding author).*
