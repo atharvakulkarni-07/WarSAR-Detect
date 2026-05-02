@@ -31,12 +31,12 @@ The method has been validated on three case studies: **Beirut (2020 explosion)**
 
 ## Key Features
 
-- 📡 **Open data only**: Sentinel‑1 SLC images (freely available from Copernicus)
-- ⚡ **Near real‑time**: 12‑day update cycle, no need for post‑event image stacks
-- 🧮 **Statistically grounded**: Robust quantile regression + Q<sub>n</sub> scale estimator + one‑sided p‑values
-- 🏢 **Pixel → building aggregation**: Weighted HMP that handles spatial dependence
-- 💰 **Economic loss module**: Damage grade assignment, reconstruction cost Monte Carlo, and insurance portfolio loss simulation
-- 📊 **Full performance evaluation**: PR/ROC curves, 99:1 negative sampling, 100‑iteration bootstrap
+- **Open data only**: Sentinel‑1 SLC images (freely available from Copernicus)
+- **Near real‑time**: 12‑day update cycle, no need for post‑event image stacks
+- **Statistically grounded**: Robust quantile regression + Q<sub>n</sub> scale estimator + one‑sided p‑values
+- **Pixel → building aggregation**: Weighted HMP that handles spatial dependence
+- **Economic loss module**: Damage grade assignment, reconstruction cost Monte Carlo, and insurance portfolio loss simulation
+- **Full performance evaluation**: PR/ROC curves, 99:1 negative sampling, 100‑iteration bootstrap
 
 ---
 
